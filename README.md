@@ -69,4 +69,14 @@ The model performance was evaluated using:
 
 Final Test Accuracy: **84.30%**
 
+### Training Performance
+
+![Accuracy & Loss](images/accuracy_loss.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 ---
