@@ -80,3 +80,7 @@ Final Test Accuracy: **84.30%**
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ---
+
+## 👤 Author
+
+**Konstantina Frangou**
